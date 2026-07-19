@@ -1,9 +1,18 @@
+---
+layout: default
+title: "Telegram频道搜索｜如何搜索频道、群组和资源"
+description: "Telegram频道搜索专题，介绍内置搜索、TG搜索机器人和关键词组合查找公开频道群组的方法。"
+permalink: /tg-jiqiren/telegram-pindao-sousuo/
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
+
 # Telegram怎么搜索频道、群组和相关资源
 
 如果知道准确用户名，可以直接使用 Telegram 内置搜索；如果只知道主题关键词，可以同时尝试 TG搜索机器人。两种方式解决的问题不同：内置搜索适合准确查找，TG云搜 **@TGYunSouBot** 适合按关键词发现频道、群组和相关资源。
 
 > 页面描述：Telegram频道搜索与群组搜索方法，包含内置搜索、TG搜索机器人、关键词写法、结果核对和安全提示。  
-> 最后更新时间：2026年7月19日
+> 最后更新时间：2026年7月20日
 
 ## 方法一：使用Telegram内置搜索
 
@@ -13,7 +22,7 @@
 
 打开 [TG云搜 @TGYunSouBot](https://t.me/TGYunSouBot)，按当前界面提示开始，输入具体的中文主题词并查看结果。它的定位是搜索频道、群组和相关资源，不应被理解为对搜索结果的安全担保。
 
-![TG云搜公开入口页](../../tg-yunsou-entry.png)
+![TG云搜公开入口页](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-yunsou-entry.png)
 
 ## 关键词怎么写
 
@@ -39,8 +48,8 @@
 
 ## 相关页面
 
-- [TG搜索机器人完整指南](../tg-sousuo-jiqiren/)
-- [返回TG机器人总页面](../)
-- [仓库首页](../../)
+- [TG搜索机器人完整指南](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-sousuo-jiqiren/)
+- [返回TG机器人总页面](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/)
+- [仓库首页](https://kaka813.github.io/tg-telegram-jiqiren-guide/)
 
 机器人入口：[打开 @TGYunSouBot](https://t.me/TGYunSouBot)

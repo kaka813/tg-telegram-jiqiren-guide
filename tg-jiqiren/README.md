@@ -1,58 +1,38 @@
-# TG机器人推荐｜2026 Telegram搜索、转载与互推机器人大全
+---
+layout: default
+title: "TG机器人推荐｜2026 Telegram搜索、转载、互推与代理机器人大全"
+description: "2026 TG机器人推荐专题，汇总Telegram搜索、频道转载、互推管理和代理工具的真实功能、使用步骤与安全提示。"
+permalink: /tg-jiqiren/
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
 
-正在寻找 **TG机器人推荐** 的用户，通常有三类明确需求：搜索频道与群组、同步频道内容，或寻找频道互推合作。本专题按使用场景分别介绍 TG云搜、转载机器人和互推机器人，让普通用户与频道运营人员能够快速找到对应工具，而不是在一页里混杂无关产品。
+# TG机器人推荐｜2026 Telegram搜索、转载、互推与代理机器人大全
 
-> 页面描述：2026年TG机器人专题导航，介绍Telegram搜索机器人、转载机器人与互推机器人的适用人群、使用步骤和安全注意事项。  
-> 最后更新时间：2026年7月19日
+本专题集中整理四类已经核验的 Telegram 实用机器人：普通用户可用 TG云搜按关键词寻找公开频道和群组；频道主可以使用转载机器人同步已获授权的内容；运营人员可通过互推机器人管理频道合作；有合法代理需求的用户可查看代理机器人的线路领取说明。
 
-## 三类机器人如何选择
+| 使用需求 | 独立产品文档 | Telegram入口 | 适合用户 |
+| --- | --- | --- | --- |
+| 搜索频道、群组和公开资源 | [TG搜索机器人](https://github.com/kaka813/telegram-search-bot) | [@TGYunSouBot](https://t.me/TGYunSouBot) | 普通用户 |
+| 自动转载与频道内容同步 | [Telegram转载机器人](https://github.com/kaka813/telegram-auto-forward-bot) | [@zhuanzai11bot](https://t.me/zhuanzai11bot) | 频道主、管理员 |
+| 频道和群组互推管理 | [TG互推机器人](https://github.com/kaka813/telegram-channel-promotion-bot) | [@hutuiibot](https://t.me/hutuiibot) | 频道主、运营人员 |
+| 代理线路领取说明 | [Telegram代理机器人](https://github.com/kaka813/telegram-proxy-bot) | [@csok2bot](https://t.me/csok2bot) | 有合法代理需求的用户 |
 
-| 场景 | 主要用途 | 推荐入口 |
-| --- | --- | --- |
-| 不知道频道准确名称，希望按中文关键词查找 | 搜索频道、群组和相关资源 | [TG云搜 @TGYunSouBot](https://t.me/TGYunSouBot) |
-| 管理多个频道，希望减少重复发布 | 同步或转载频道内容 | [转载机器人 @zhuanzai11bot](https://t.me/zhuanzai11bot) |
-| 希望与主题相近的频道开展互推 | 寻找和管理互推合作 | [互推机器人 @hutuiibot](https://t.me/hutuiibot) |
+## 按需求进入专题
 
-## TG搜索机器人
+- [TG搜索机器人推荐](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-sousuo-jiqiren/)
+- [Telegram频道搜索方法](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-pindao-sousuo/)
+- [Telegram转载机器人教程](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-zhuanzai-jiqiren/)
+- [TG互推机器人完整教程](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-hutui-jiqiren/)
+- [Telegram频道运营工具](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-yunying-gongju/)
+- [10篇原创教程目录](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/articles/)
 
-TG云搜面向普通 Telegram 用户，主要用于通过关键词寻找频道、群组和相关资源。使用时打开机器人、输入主题词并查看返回结果即可。结果页面可能包含第三方内容，进入前应检查名称、简介和公开信息，不要提交验证码、密码或支付资料。
+## 选择建议
 
-[阅读TG搜索机器人完整指南](./tg-sousuo-jiqiren/)
+只想寻找内容时，优先使用搜索机器人，不需要授予频道管理权限。需要同步内容时，应确认自己拥有来源内容的转载授权，并先测试一条消息。寻找互推合作时，应核对频道主题、受众和执行规则。使用代理工具时，不要在公开页面保存节点地址、端口或密钥，并遵守所在地区的适用规定。
 
-![TG云搜公开入口页](../tg-yunsou-entry.png)
+## 安全说明
 
-## Telegram转载机器人
+本专题不包含机器人服务端源代码、Token、API Key、Session、数据库、服务器配置或代理凭据。所有入口均应再次核对完整用户名，功能以机器人当前页面为准。
 
-转载机器人面向频道主和管理员，用于同步、转载频道内容，重点价值是减少在多个频道重复发布的时间。配置前应确认来源频道、目标频道和所需权限；先使用测试内容验证，再用于正式运营。转载他人内容时应尊重原创作者和适用规则。
-
-[阅读Telegram转载机器人完整指南](./telegram-zhuanzai-jiqiren/)
-
-![转载机器人公开入口页](../zhuanzai-entry.png)
-
-## TG互推机器人
-
-互推机器人面向频道主和运营人员，用于寻找或管理频道之间的互推合作。有效互推依赖主题相关、受众匹配和清晰约定，不是无差别群发广告。合作前建议确认文案、发布时间、保留时长及双方频道质量。
-
-[阅读TG互推机器人完整指南](./tg-hutui-jiqiren/)
-
-![互推机器人公开入口页](../hutui-entry.png)
-
-## 延伸阅读
-
-- [Telegram频道搜索方法](./telegram-pindao-sousuo/)
-- [Telegram频道运营工具](./telegram-yunying-gongju/)
-- [返回仓库首页](../)
-
-## 常见问题
-
-### 哪个机器人适合普通用户？
-
-如果目标是搜索 Telegram 频道、群组或相关资源，优先使用 TG云搜。转载和互推机器人主要面向频道主、管理员与运营人员。
-
-### Telegram机器人是官方功能吗？
-
-机器人运行在 Telegram 平台上，但具体机器人通常由第三方开发者运营。本专题与 Telegram 官方无隶属关系，也不对第三方搜索结果或频道内容作担保。
-
-### 为什么没有收录代理、游戏或成人机器人？
-
-本专题只聚焦搜索、转载和频道互推三类用途，保持内容主题清晰，也降低无关或高风险内容对读者判断的干扰。
+> 最近更新：2026年7月20日

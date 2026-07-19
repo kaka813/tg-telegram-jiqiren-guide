@@ -1,9 +1,18 @@
+---
+layout: default
+title: "TG互推机器人是什么？频道互推完整教程"
+description: "介绍TG互推机器人的频道绑定、互推申请、候补状态、曝光合作及频道运营注意事项。"
+permalink: /tg-jiqiren/articles/tg-hutui-jiqiren-jiaocheng/
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
+
 # TG互推机器人是什么？频道互推完整教程
 
 TG互推机器人用于帮助频道之间开展互推合作。频道主可以通过 **@hutuiibot** 按当前规则寻找或管理互推，但真正决定效果的是主题匹配、频道内容、合作约定和活动后的数据复盘。
 
 > 页面描述：TG互推机器人与频道互推教程，覆盖准备资料、筛选合作、发布约定、风险控制和效果记录。  
-> 最后更新时间：2026年7月19日
+> 最后更新时间：2026年7月20日
 
 ## 什么是频道互推
 
@@ -17,7 +26,7 @@ TG互推机器人用于帮助频道之间开展互推合作。频道主可以通
 
 打开 [@hutuiibot](https://t.me/hutuiibot)，阅读当前版本的规则，按提示提交必要频道信息。具体匹配字段和流程以实际界面为准，本教程不虚构自动匹配范围或曝光承诺。
 
-![互推机器人公开入口](../../hutui-entry.png)
+![互推机器人公开入口](https://kaka813.github.io/tg-telegram-jiqiren-guide/hutui-entry.png)
 
 ## 合作步骤
 
@@ -48,8 +57,8 @@ TG互推机器人用于帮助频道之间开展互推合作。频道主可以通
 
 ## 相关页面
 
-- [TG互推机器人核心页](../tg-hutui-jiqiren/)
-- [频道运营工具](../telegram-yunying-gongju/)
-- [返回TG机器人总页面](../)
+- [TG互推机器人核心页](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-hutui-jiqiren/)
+- [频道运营工具](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-yunying-gongju/)
+- [返回TG机器人总页面](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/)
 
 入口：[打开 @hutuiibot](https://t.me/hutuiibot)

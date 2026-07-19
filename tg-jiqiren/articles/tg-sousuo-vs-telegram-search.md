@@ -1,9 +1,18 @@
+---
+layout: default
+title: "TG搜索机器人和Telegram内置搜索有什么区别"
+description: "对比TG搜索机器人与Telegram内置搜索的适用场景、搜索方式、结果范围和安全核验方法。"
+permalink: /tg-jiqiren/articles/tg-sousuo-vs-telegram-search/
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
+
 # TG搜索机器人和Telegram内置搜索有什么区别
 
 Telegram 内置搜索适合查找已知用户名、联系人或明确名称；TG搜索机器人更适合只有主题关键词、希望发现频道和群组的情况。两者可以组合使用，不需要把其中一个描述成完全替代另一个。
 
 > 页面描述：比较TG搜索机器人与Telegram内置搜索的用途、优缺点、关键词方法和安全注意事项。  
-> 最后更新时间：2026年7月19日
+> 最后更新时间：2026年7月20日
 
 ## 核心区别
 
@@ -22,7 +31,7 @@ Telegram 内置搜索适合查找已知用户名、联系人或明确名称；TG
 
 不知道准确名称，只知道“摄影”“编程”“运营”等主题时，可以使用 [TG云搜 @TGYunSouBot](https://t.me/TGYunSouBot)。输入“主题＋类型”比宽泛词更容易筛选，例如“编程 中文群组”。
 
-![TG云搜公开入口](../../tg-yunsou-entry.png)
+![TG云搜公开入口](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-yunsou-entry.png)
 
 ## 推荐组合流程
 
@@ -48,6 +57,6 @@ Telegram 内置搜索适合查找已知用户名、联系人或明确名称；TG
 
 ## 相关页面
 
-- [TG搜索机器人完整指南](../tg-sousuo-jiqiren/)
-- [Telegram频道搜索专题](../telegram-pindao-sousuo/)
-- [返回TG机器人总页面](../)
+- [TG搜索机器人完整指南](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-sousuo-jiqiren/)
+- [Telegram频道搜索专题](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-pindao-sousuo/)
+- [返回TG机器人总页面](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/)

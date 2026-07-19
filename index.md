@@ -1,3 +1,12 @@
+---
+layout: default
+title: "TG机器人推荐｜2026 Telegram搜索、转载、互推与代理机器人大全"
+description: "持续整理真实可用的TG机器人，包括Telegram搜索机器人、频道自动转载、频道互推管理和代理工具使用教程。"
+permalink: /
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
+
 # TG机器人推荐｜2026 Telegram搜索、转载、互推与代理机器人大全
 
 🌐 **在线专题站：** [TG机器人推荐与原创教程](https://kaka813.github.io/tg-telegram-jiqiren-guide/)

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <meta name="theme-color" content="#071a3d">
+  <style>
+    :root{--navy:#071a3d;--blue:#1788ff;--cyan:#23cfff;--ink:#17243a;--muted:#60708a;--line:#dce7f5;--bg:#f4f8fd}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.75 -apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif}
+    a{color:#0969da;text-decoration:none}a:hover{text-decoration:underline}
+    .site-header{background:linear-gradient(120deg,#061735,#0b3f86);color:#fff;box-shadow:0 2px 18px #06173533}
+    .header-inner,.page,.footer-inner{max-width:1040px;margin:auto;padding-left:24px;padding-right:24px}
+    .header-inner{display:flex;align-items:center;justify-content:space-between;gap:22px;padding-top:18px;padding-bottom:18px}
+    .brand{color:#fff;font-size:20px;font-weight:800}.brand:hover{text-decoration:none}
+    nav{display:flex;gap:16px;flex-wrap:wrap}nav a{color:#d9efff;font-size:14px}
+    .page{margin:34px auto;background:#fff;padding-top:38px;padding-bottom:54px;border:1px solid var(--line);border-radius:18px;box-shadow:0 12px 40px #153b6a12}
+    h1{font-size:clamp(30px,5vw,46px);line-height:1.22;color:var(--navy);margin-top:0;border-bottom:4px solid var(--cyan);padding-bottom:18px}
+    h2{font-size:27px;line-height:1.35;color:#0b3874;margin-top:42px}h3{font-size:20px;color:#1557a3}
+    table{width:100%;border-collapse:collapse;display:block;overflow-x:auto}th,td{border:1px solid var(--line);padding:12px 14px;text-align:left;min-width:150px}th{background:#edf6ff}
+    blockquote{margin:24px 0;padding:14px 18px;border-left:4px solid var(--blue);background:#eef6ff;color:#38506f}
+    img{max-width:100%;height:auto;border-radius:12px}.page>p:first-of-type{font-size:18px;color:#334a67}
+    code{background:#eef3f8;padding:2px 6px;border-radius:5px}hr{border:0;border-top:1px solid var(--line);margin:36px 0}
+    .site-footer{background:var(--navy);color:#b9cce4}.footer-inner{padding-top:24px;padding-bottom:24px;font-size:14px}
+    @media(max-width:720px){.header-inner{align-items:flex-start;flex-direction:column}.page{margin:0;border-radius:0;border-left:0;border-right:0;padding-top:28px}h2{font-size:23px}}
+  </style>
+</head>
+<body>
+  <header class="site-header"><div class="header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">TG机器人实用工具</a>
+    <nav aria-label="主导航">
+      <a href="{{ '/tg-jiqiren/tg-sousuo-jiqiren/' | relative_url }}">TG搜索</a>
+      <a href="{{ '/tg-jiqiren/telegram-zhuanzai-jiqiren/' | relative_url }}">自动转载</a>
+      <a href="{{ '/tg-jiqiren/tg-hutui-jiqiren/' | relative_url }}">频道互推</a>
+      <a href="{{ '/tg-jiqiren/articles/' | relative_url }}">原创教程</a>
+      <a href="https://github.com/kaka813/tg-telegram-jiqiren-guide">GitHub</a>
+    </nav>
+  </div></header>
+  <main class="page">{{ content }}</main>
+  <footer class="site-footer"><div class="footer-inner">真实功能 · 真实截图 · 持续更新｜本项目与 Telegram 官方无隶属关系。</div></footer>
+</body>
+</html>

@@ -1,9 +1,18 @@
+---
+layout: default
+title: "Telegram频道运营工具｜搜索、转载与互推机器人"
+description: "频道主常用Telegram运营工具指南，说明搜索获客、内容同步和频道互推机器人的分工与使用边界。"
+permalink: /tg-jiqiren/telegram-yunying-gongju/
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
+
 # Telegram频道运营工具｜搜索、转载与互推机器人怎么分工
 
 频道运营常见的三个环节是发现公开内容与合作线索、减少重复发布、寻找主题相近的推广合作。TG云搜、转载机器人和互推机器人分别对应这三种需求，不应该把一个机器人描述成包办所有工作的万能工具。
 
 > 页面描述：频道主常用Telegram运营机器人推荐，说明TG云搜、转载机器人和互推机器人的不同用途与组合流程。  
-> 最后更新时间：2026年7月19日
+> 最后更新时间：2026年7月20日
 
 ## 三个机器人的用途
 
@@ -41,7 +50,7 @@
 
 ## 相关页面
 
-- [TG搜索机器人指南](../tg-sousuo-jiqiren/)
-- [Telegram转载机器人指南](../telegram-zhuanzai-jiqiren/)
-- [TG互推机器人指南](../tg-hutui-jiqiren/)
-- [返回TG机器人总页面](../)
+- [TG搜索机器人指南](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-sousuo-jiqiren/)
+- [Telegram转载机器人指南](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-zhuanzai-jiqiren/)
+- [TG互推机器人指南](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-hutui-jiqiren/)
+- [返回TG机器人总页面](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/)

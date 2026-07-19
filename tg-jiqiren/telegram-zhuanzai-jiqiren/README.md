@@ -1,16 +1,25 @@
+---
+layout: default
+title: "Telegram转载机器人使用教程｜频道自动同步"
+description: "Telegram转载机器人专题教程，介绍频道内容同步、自动转发、过滤规则、媒体处理和权限安全。"
+permalink: /tg-jiqiren/telegram-zhuanzai-jiqiren/
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
+
 # Telegram转载机器人使用教程｜频道内容自动同步指南
 
 管理多个 Telegram 频道时，如果同一条内容需要重复发布，可以考虑使用转载机器人 **@zhuanzai11bot** 辅助同步和转载。它面向频道主与管理员，核心价值是减少复制、粘贴和重复检查的时间。配置前必须明确来源频道、目标频道以及机器人真正需要的权限。
 
 > 页面描述：Telegram转载机器人与TG自动转发机器人使用指南，介绍频道同步准备、测试流程、权限和常见问题。  
 > 目标关键词：tg转载机器人、telegram转载机器人、telegram自动转载机器人、tg自动转发机器人、telegram频道同步机器人  
-> 最后更新时间：2026年7月19日
+> 最后更新时间：2026年7月20日
 
 ## 机器人主要功能
 
 根据当前推广资料，转载机器人的用途是同步和转载频道内容。公开入口为 [@zhuanzai11bot](https://t.me/zhuanzai11bot)。具体支持哪些消息类型、过滤条件、格式处理或发布频率，应以机器人实际界面为准，本页面不会编造未验证功能。
 
-![转载机器人公开入口页](../../zhuanzai-entry.png)
+![转载机器人公开入口页](https://kaka813.github.io/tg-telegram-jiqiren-guide/zhuanzai-entry.png)
 
 ## 适合什么用户
 
@@ -53,8 +62,8 @@
 
 ## 相关页面
 
-- [返回TG机器人总页面](../)
-- [Telegram频道运营工具](../telegram-yunying-gongju/)
-- [仓库首页](../../)
+- [返回TG机器人总页面](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/)
+- [Telegram频道运营工具](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-yunying-gongju/)
+- [仓库首页](https://kaka813.github.io/tg-telegram-jiqiren-guide/)
 
 对应机器人入口：[打开 @zhuanzai11bot](https://t.me/zhuanzai11bot)

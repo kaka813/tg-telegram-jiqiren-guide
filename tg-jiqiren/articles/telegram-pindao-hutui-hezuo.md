@@ -1,9 +1,18 @@
+---
+layout: default
+title: "Telegram频道如何寻找互推合作｜频道互推指南"
+description: "介绍Telegram频道寻找互推合作的方法、筛选标准、排期注意事项，以及TG互推机器人适合的使用场景。"
+permalink: /tg-jiqiren/articles/telegram-pindao-hutui-hezuo/
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
+
 # Telegram频道如何寻找互推合作
 
 Telegram频道寻找互推合作时，先筛选主题与受众，再讨论文案和发布时间。互推机器人 **@hutuiibot** 可以帮助频道主寻找或管理合作，但不要只看用户数量，也不要向不相关频道批量发送相同推广。
 
 > 页面描述：Telegram频道互推合作指南，说明准备资料、筛选频道、沟通约定、发布检查与效果复盘。  
-> 最后更新时间：2026年7月19日
+> 最后更新时间：2026年7月20日
 
 ## 先准备频道资料
 
@@ -13,7 +22,7 @@ Telegram频道寻找互推合作时，先筛选主题与受众，再讨论文案
 
 打开 [@hutuiibot](https://t.me/hutuiibot)，阅读当前规则并按提示提供必要频道信息。机器人用于帮助频道之间开展互推，具体匹配方式和要求以当前界面为准。
 
-![互推机器人公开入口](../../hutui-entry.png)
+![互推机器人公开入口](https://kaka813.github.io/tg-telegram-jiqiren-guide/hutui-entry.png)
 
 ## 筛选合作对象
 
@@ -43,8 +52,8 @@ Telegram频道寻找互推合作时，先筛选主题与受众，再讨论文案
 
 ## 相关页面
 
-- [TG互推机器人完整指南](../tg-hutui-jiqiren/)
-- [Telegram频道运营工具](../telegram-yunying-gongju/)
-- [返回TG机器人总页面](../)
+- [TG互推机器人完整指南](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-hutui-jiqiren/)
+- [Telegram频道运营工具](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-yunying-gongju/)
+- [返回TG机器人总页面](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/)
 
 入口：[打开 @hutuiibot](https://t.me/hutuiibot)

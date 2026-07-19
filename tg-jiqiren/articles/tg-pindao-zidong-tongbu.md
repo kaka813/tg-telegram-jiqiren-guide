@@ -1,9 +1,18 @@
+---
+layout: default
+title: "TG频道内容如何自动同步到另一个频道"
+description: "讲解Telegram频道内容自动同步的任务设置、权限要求、过滤规则、测试步骤及版权注意事项。"
+permalink: /tg-jiqiren/articles/tg-pindao-zidong-tongbu/
+last_modified_at: 2026-07-20
+image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
+---
+
 # TG频道内容如何自动同步到另一个频道
 
 把 TG 频道内容自动同步到另一个频道，核心流程是确认授权、配置来源和目标、给予最小发布权限，然后用测试消息验证。转载机器人 **@zhuanzai11bot** 用于同步和转载频道内容，适合频道主与管理员。
 
 > 页面描述：TG频道自动同步教程，介绍来源目标规划、转载机器人配置、测试、异常排查和版权注意事项。  
-> 最后更新时间：2026年7月19日
+> 最后更新时间：2026年7月20日
 
 ## 先画清内容流向
 
@@ -13,7 +22,7 @@
 
 打开 [@zhuanzai11bot](https://t.me/zhuanzai11bot)，阅读当前提示并按实际界面完成来源、目标和权限设置。本指南只确认其同步与转载用途，不假设过滤、改写或定时等未验证功能。
 
-![转载机器人公开入口](../../zhuanzai-entry.png)
+![转载机器人公开入口](https://kaka813.github.io/tg-telegram-jiqiren-guide/zhuanzai-entry.png)
 
 ## 测试步骤
 
@@ -43,8 +52,8 @@
 
 ## 相关页面
 
-- [转载机器人核心指南](../telegram-zhuanzai-jiqiren/)
-- [频道运营工具](../telegram-yunying-gongju/)
-- [返回TG机器人总页面](../)
+- [转载机器人核心指南](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-zhuanzai-jiqiren/)
+- [频道运营工具](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-yunying-gongju/)
+- [返回TG机器人总页面](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/)
 
 入口：[打开 @zhuanzai11bot](https://t.me/zhuanzai11bot)

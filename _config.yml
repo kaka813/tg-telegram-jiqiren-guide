@@ -1,10 +1,14 @@
 title: "TG机器人推荐｜2026 Telegram机器人大全"
-description: "Telegram搜索机器人、频道同步、转载与互推工具的中文原创使用指南。"
+description: "Telegram搜索机器人、频道自动转载、频道互推与代理工具的中文原创使用指南。"
 url: "https://kaka813.github.io"
 baseurl: "/tg-telegram-jiqiren-guide"
 lang: "zh-CN"
+locale: "zh_CN"
 timezone: "Asia/Shanghai"
-theme: null
+author:
+  name: "TG机器人实用工具"
+social:
+  name: "TG机器人实用工具"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -12,5 +16,13 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 include:
   - README.md
+exclude:
+  - work
