@@ -24,6 +24,7 @@ image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 - [Telegram频道搜索方法](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-pindao-sousuo/)
 - [Telegram转载机器人教程](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-zhuanzai-jiqiren/)
 - [TG互推机器人完整教程](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/tg-hutui-jiqiren/)
+- [Telegram代理机器人专题](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-proxy-jiqiren/)
 - [Telegram频道运营工具](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/telegram-yunying-gongju/)
 - [10篇原创教程目录](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/articles/)
 

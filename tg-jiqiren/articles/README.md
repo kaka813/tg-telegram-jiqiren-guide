@@ -28,3 +28,10 @@ image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 10. [频道主常用的Telegram运营机器人推荐](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/articles/telegram-yunying-jiqiren-tuijian/)
 
 > 最后更新时间：2026年7月20日。机器人功能以实际界面为准，不要向第三方提交验证码、密码或助记词。
+
+## 新增问题型教程
+
+1. [TG搜索机器人搜不到结果怎么办](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/articles/tg-sousuo-jiqiren-sou-bu-dao/)
+2. [Telegram自动转载失败排查](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/articles/telegram-zhuanzai-shibai-paicha/)
+3. [TG互推车队候补是什么意思](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/articles/tg-hutui-houbu-shuoming/)
+4. [Telegram代理线路失效怎么办](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/articles/telegram-proxy-xianlu-shixiao/)
