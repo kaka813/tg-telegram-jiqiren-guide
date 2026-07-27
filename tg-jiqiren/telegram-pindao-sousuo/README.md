@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Telegram频道搜索｜如何搜索频道、群组和资源"
-description: "Telegram频道搜索专题，介绍内置搜索、TG搜索机器人和关键词组合查找公开频道群组的方法。"
+title: "Telegram频道搜索指南｜公开频道、群组和资源查找方法"
+description: "Telegram频道搜索指南，汇总内置搜索、TG搜索机器人、频道群组关键词组合、结果核验和找不到时的处理方法。"
 permalink: /tg-jiqiren/telegram-pindao-sousuo/
-last_modified_at: 2026-07-20
+last_modified_at: 2026-07-27
 image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 ---
 
-# Telegram怎么搜索频道、群组和相关资源
+# Telegram频道搜索指南｜公开频道、群组和资源查找方法
 
 如果知道准确用户名，可以直接使用 Telegram 内置搜索；如果只知道主题关键词，可以同时尝试 TG搜索机器人。两种方式解决的问题不同：内置搜索适合准确查找，TG云搜 **@TGYunSouBot** 适合按关键词发现频道、群组和相关资源。
 

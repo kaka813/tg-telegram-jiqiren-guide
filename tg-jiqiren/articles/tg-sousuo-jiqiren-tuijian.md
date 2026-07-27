@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "TG搜索机器人推荐｜如何搜索Telegram频道和群组"
-description: "TG搜索机器人使用指南，说明如何输入关键词查找Telegram频道、群组和公开资源并核对搜索结果。"
+title: "TG搜群机器人怎么用｜Telegram频道群组搜索教程"
+description: "TG搜群机器人和Telegram群组搜索教程，说明如何输入主题关键词查找频道群组、缩小结果并核对公开入口。"
 permalink: /tg-jiqiren/articles/tg-sousuo-jiqiren-tuijian/
-last_modified_at: 2026-07-20
+last_modified_at: 2026-07-27
 image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 ---
 
-# TG搜索机器人推荐：如何搜索Telegram频道和群组
+# TG搜群机器人怎么用｜Telegram频道群组搜索教程
 
-只知道主题、不知道频道或群组的准确名称时，可以打开 TG云搜 **@TGYunSouBot**，输入具体关键词并核对返回结果。已知准确用户名时则优先使用 Telegram 内置搜索，两种方式可以互相补充。
+需要通过 **TG搜群机器人** 查找公开频道或群组，而又不知道准确名称时，可以打开 TG云搜 **@TGYunSouBot**，输入具体关键词并核对返回结果。已知准确用户名时则优先使用 Telegram 内置搜索，两种方式可以互相补充。
 
 > 页面描述：TG搜索机器人推荐与实用步骤，帮助用户通过关键词搜索Telegram频道和群组。  
-> 最后更新时间：2026年7月20日
+> 最后更新时间：2026年7月27日
 
 ## 为什么需要关键词搜索
 

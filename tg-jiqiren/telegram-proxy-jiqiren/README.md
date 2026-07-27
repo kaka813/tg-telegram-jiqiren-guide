@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Telegram代理机器人｜TG代理节点获取与安全使用说明"
-description: "Telegram代理机器人专题页面，介绍@csok2bot线路领取步骤、账号核验、线路失效处理和代理凭据安全注意事项。"
+title: "Telegram代理机器人｜TG代理节点领取与使用说明"
+description: "Telegram代理机器人与TG代理节点工具说明，介绍@csok2bot线路领取、账号核验、线路失效处理和凭据安全。"
 permalink: /tg-jiqiren/telegram-proxy-jiqiren/
-last_modified_at: 2026-07-20
+last_modified_at: 2026-07-27
 image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 ---
 
-# Telegram代理机器人｜TG代理节点获取与安全使用说明
+# Telegram代理机器人｜TG代理节点领取与使用说明
 
 如果你需要了解 Telegram 代理机器人的真实操作流程，可以打开 [@csok2bot](https://t.me/csok2bot) 核对当前提示。公开页面显示，用户启动机器人后需要先阅读指定频道说明，再返回机器人领取当日线路。线路可能更新或失效，因此任何地址、端口、密钥和完整连接链接都不应复制到公开网页。
 

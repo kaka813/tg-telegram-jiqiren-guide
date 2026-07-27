@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "TG搜索机器人推荐｜Telegram频道和群组搜索"
-description: "TG搜索机器人专题页面，介绍关键词搜索、频道群组筛选、结果核验和TG云搜使用步骤。"
+title: "TG搜索机器人｜Telegram搜群、搜频道和资源工具"
+description: "TG搜索机器人与Telegram搜索机器人使用指南，介绍TG搜群、频道搜索、资源关键词写法、结果筛选和TG云搜入口。"
 permalink: /tg-jiqiren/tg-sousuo-jiqiren/
-last_modified_at: 2026-07-20
+last_modified_at: 2026-07-27
 image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 ---
 
-# TG搜索机器人推荐｜如何搜索Telegram频道和群组
+# TG搜索机器人｜Telegram搜群、搜频道和资源工具
 
-想通过关键词搜索 Telegram 频道、群组和相关资源，可以使用 TG云搜 **@TGYunSouBot**。它面向普通 Telegram 用户：打开机器人后输入主题关键词，再从返回结果中核对名称与简介。它适合“不知道准确用户名、只知道想找什么内容”的场景。
+需要 **TG搜群机器人**、**TG频道搜索机器人** 或 **Telegram资源搜索** 时，可以使用 TG云搜 **@TGYunSouBot**。它面向普通 Telegram 用户：打开机器人后输入主题关键词，再从返回结果中核对名称与简介。它适合“不知道准确用户名、只知道想找什么内容”的场景。
 
 > 页面描述：TG搜索机器人使用指南，说明如何使用TG云搜查找Telegram频道、群组和相关资源，并比较机器人搜索与内置搜索。  
 > 目标关键词：tg搜索机器人、telegram搜索机器人、tg搜群机器人、tg频道搜索机器人  
-> 最后更新时间：2026年7月20日
+> 最后更新时间：2026年7月27日
 
-## TG云搜的主要用途
+## TG搜索机器人能做什么
 
 TG云搜用于搜索 Telegram 频道、群组和相关资源。公开页面能够确认机器人入口为 [@TGYunSouBot](https://t.me/TGYunSouBot)。本指南不宣称它具备自动下载、破解权限、绕过限制或其他未经验证的功能。
 

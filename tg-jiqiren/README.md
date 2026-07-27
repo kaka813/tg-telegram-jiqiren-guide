@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "TG机器人推荐｜2026 Telegram搜索、转载、互推与代理机器人大全"
-description: "2026 TG机器人推荐专题，汇总Telegram搜索、频道转载、互推管理和代理工具的真实功能、使用步骤与安全提示。"
+title: "TG机器人导航｜Telegram实用工具分类与入口"
+description: "TG机器人导航与Telegram实用工具分类，按搜索、转载、频道互推和代理需求提供独立教程、真实入口与安全说明。"
 permalink: /tg-jiqiren/
-last_modified_at: 2026-07-20
+last_modified_at: 2026-07-27
 image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 ---
 
-# TG机器人推荐｜2026 Telegram搜索、转载、互推与代理机器人大全
+# TG机器人导航｜Telegram实用工具分类与入口
 
-本专题集中整理四类已经核验的 Telegram 实用机器人：普通用户可用 TG云搜按关键词寻找公开频道和群组；频道主可以使用转载机器人同步已获授权的内容；运营人员可通过互推机器人管理频道合作；有合法代理需求的用户可查看代理机器人的线路领取说明。
+这份 **TG机器人导航** 不追求堆砌数量，而是按使用目的整理四类已经核验的 Telegram 实用工具：普通用户可用 TG云搜按关键词寻找公开频道和群组；频道主可以使用转载机器人同步已获授权的内容；运营人员可通过互推机器人管理频道合作；有合法代理需求的用户可查看代理机器人的线路领取说明。
 
 | 使用需求 | 独立产品文档 | Telegram入口 | 适合用户 |
 | --- | --- | --- | --- |
@@ -36,4 +36,4 @@ image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 
 本专题不包含机器人服务端源代码、Token、API Key、Session、数据库、服务器配置或代理凭据。所有入口均应再次核对完整用户名，功能以机器人当前页面为准。
 
-> 最近更新：2026年7月20日
+> 最近更新：2026年7月27日

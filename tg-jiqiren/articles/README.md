@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "TG机器人原创教程目录｜Telegram机器人使用指南"
-description: "TG机器人原创教程目录，收录Telegram搜索、频道转载、频道互推和运营工具的真实操作教程与问题解答。"
+title: "Telegram机器人教程目录｜TG搜索、转载与频道运营"
+description: "Telegram机器人教程目录，收录TG搜索、频道自动转载、Telegram频道互推、代理工具的操作教程与问题排查。"
 permalink: /tg-jiqiren/articles/
-last_modified_at: 2026-07-20
+last_modified_at: 2026-07-27
 image: "https://kaka813.github.io/tg-telegram-jiqiren-guide/social-preview.jpg"
 ---
 
-# TG机器人原创教程目录
+# Telegram机器人教程目录｜搜索、转载与频道运营
 
 本目录收录10篇围绕 Telegram 搜索、频道同步和频道互推的原创中文教程。每篇文章聚焦一个明确问题，并链接回对应核心功能页和 [TG机器人总页面](https://kaka813.github.io/tg-telegram-jiqiren-guide/tg-jiqiren/)。
 
